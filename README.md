@@ -1,9 +1,9 @@
 #  L-Layer Neural Network from Scratch (NumPy)
-
+---
 This project is a complete implementation of an **L-layer neural network** from scratch using only **NumPy**.  
 The goal was to learn and demonstrate the **fundamentals of deep learning** by coding everything manually, without using libraries like TensorFlow or PyTorch.
 
-
+---
 
 ##  What I Built
 From scratch, I implemented all the key components of a deep neural network:
@@ -22,7 +22,8 @@ From scratch, I implemented all the key components of a deep neural network:
 
 
 
-## 🏗 Architecture
+##  Architecture
+---
 
 The network structure is flexible: you can define any number of layers and neurons with a Python list.
 
